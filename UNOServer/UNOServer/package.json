@@ -1,0 +1,9 @@
+{
+  "name": "unoserver",
+  "version": "0.0.0",
+  "description": "UNOServer",
+  "main": "app.js",
+  "author": {
+    "name": "Ebram"
+  }
+}
